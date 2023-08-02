@@ -193,6 +193,10 @@ spacer {
       margin-left: 20px; /* Add margin to create space between the text and image */
     }
 
+    .navButton {
+      display: hidden;
+    }
+
     
   }
 
